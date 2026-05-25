@@ -1,4 +1,4 @@
-package com.gleb.swimshop.config;
+package com.gleb.swimshop.infrastructure.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
